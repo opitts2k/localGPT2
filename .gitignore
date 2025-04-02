@@ -5,3 +5,14 @@ __pycache__/
 *.pyd
 .DS_Store
 .env
+MultiAgentCmd/
+
+# Ignore asset directories
+DB/
+cuda-repo-debian12-12-8-local_12.8.0-570.86.10-1_amd64.deb
+llmresponses/
+models/
+PROCESSED DOCUMENTS/
+SOURCE/
+SOURCE_DOCUMENTS/
+venv_multiagent2/
