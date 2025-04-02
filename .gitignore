@@ -5,6 +5,7 @@ __pycache__/
 *.pyd
 .DS_Store
 .env
+*.env
 MultiAgentCmd/
 
 # Ignore asset directories
