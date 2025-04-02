@@ -1,17 +1,30 @@
+# Core dependencies
 llama-cpp-python
-streamlit
+torch==2.0.1
 langchain
 langchain_community
 langchain_core
-torch==2.0.1
+transformers
+huggingface_hub
+
+# API clients
 openai
 anthropic
 google-generativeai
+
+# Web interface
+streamlit
+
+# Database
+chromadb
+
+# Web search and parsing
 beautifulsoup4
 googlesearch-python
-python-dotenv
-chromadb
 wikipedia
-gpt4all
 requests
 bs4
+
+# Utilities
+python-dotenv
+gpt4all
