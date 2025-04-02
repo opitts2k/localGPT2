@@ -2,11 +2,13 @@ import os
 import logging
 import asyncio
 import click
-import torch
 import sys
 from functools import wraps
 from typing import Dict, List, Any
 from dotenv import load_dotenv
+
+# Import torch after other imports to avoid conflicts
+import torch
 
 import anthropic
 import openai

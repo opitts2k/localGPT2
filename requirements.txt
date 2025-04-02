@@ -1,1 +1,17 @@
 llama-cpp-python
+streamlit
+langchain
+langchain_community
+langchain_core
+torch==2.0.1
+openai
+anthropic
+google-generativeai
+beautifulsoup4
+googlesearch-python
+python-dotenv
+chromadb
+wikipedia
+gpt4all
+requests
+bs4
